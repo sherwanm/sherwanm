@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sherwanm
-- 👀 I’m interested in Webdevelopment 
+- 👀 I’m interested in webdevelopment 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: +4915735487739
+- 📫 How to reach me: sherwanuodcs@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: 
 
