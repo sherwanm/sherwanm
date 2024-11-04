@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sherwanm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning: React
+- 👀 I’m interested in Webdevelopment 
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: +4915735487739
-- 😄 Pronouns: 
+- 😄 Pronouns: He
 - ⚡ Fun fact: 
 
 <!---
